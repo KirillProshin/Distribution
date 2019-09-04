@@ -49,3 +49,7 @@ button.bind('<Button-1>', output)
 
 window.mainloop()
 
+if __name__ == "__main__":
+
+
+
